@@ -1,2 +1,2 @@
-# stevedatelier-python_hair_c4d_tutorial
-:bookmark_tabs:
+# stevedatelier-hair_grooming_python_c4d_tutorial
+:computer:
