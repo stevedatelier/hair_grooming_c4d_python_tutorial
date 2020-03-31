@@ -1,2 +1,2 @@
-# stevedatelier-hair_grooming_python_c4d_tutorial
+# Grooming GG Hair with Cinema 4D and Python
 
